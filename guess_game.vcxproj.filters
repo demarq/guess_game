@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\artifactmmo-plain\guess_game.cpp">
+    <ClCompile Include="guess_game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
