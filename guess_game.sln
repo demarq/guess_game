@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "guess_game", "guess_game.vcxproj", "{06A16268-F586-438B-9102-4E4088E1C9CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A16268-F586-438B-9102-4E4088E1C9CD}.Debug|x64.ActiveCfg = Debug|x64
+		{06A16268-F586-438B-9102-4E4088E1C9CD}.Debug|x64.Build.0 = Debug|x64
+		{06A16268-F586-438B-9102-4E4088E1C9CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{06A16268-F586-438B-9102-4E4088E1C9CD}.Debug|x86.Build.0 = Debug|Win32
+		{06A16268-F586-438B-9102-4E4088E1C9CD}.Release|x64.ActiveCfg = Release|x64
+		{06A16268-F586-438B-9102-4E4088E1C9CD}.Release|x64.Build.0 = Release|x64
+		{06A16268-F586-438B-9102-4E4088E1C9CD}.Release|x86.ActiveCfg = Release|Win32
+		{06A16268-F586-438B-9102-4E4088E1C9CD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {688600EC-E449-4924-8F08-AE5F6365D50F}
+	EndGlobalSection
+EndGlobal
